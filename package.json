@@ -1,7 +1,6 @@
 {
   "name": "Part4",
   "version": "0.0.0",
-  "description": "",
   "main": "quote.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "logfmt": "^1.1.2",
     "express": "^3.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/turkisemra/lab2part4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/turkisemra/lab2part4/issues"
+  },
+  "homepage": "https://github.com/turkisemra/lab2part4"
 }
